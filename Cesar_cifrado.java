@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Cesar_cifrado {
 
+// Esto es una edicion al codigo original. Este cambio es un comentario. 
     
     public static String cifrar(String texto, int desplazamiento) {
         StringBuilder resultado = new StringBuilder();
